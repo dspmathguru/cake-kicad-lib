@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSD17381F4
+D 30VN-Channel FemtoFET MOSFET
+F https://www.ti.com/lit/ds/symlink/csd17381f4.pdf
+$ENDCMP
+#
+$CMP CSD19506KCS
+D 80 V N-Channel NexFET Power MOSFET
+F https://www.ti.com/lit/ds/symlink/csd19506kcs.pdf?ts=1632710680817&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FCSD19506KCS
+$ENDCMP
+#
+$CMP LM5030MM-NOPB
+D LM5030MM/NOPB - 100-V Push-Pull Current Mode PWM Controller
+K PWM, Push-Pull
+F https://www.ti.com/lit/ds/symlink/lm5030.pdf?ts=1632707396333&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526searchTerm%253Dlm5030%2526nr%253D108
+$ENDCMP
+#
+$CMP TLV171IDBVR
+D 6-V, Single-Supply, Low-Power Operational Amplifiers for Cost-Sensitive Systems
+K OpAmp Rail-to-rail Output Single vfa
+F https://www.ti.com/lit/ds/symlink/tlv171.pdf?ts=1633141779255&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DTLV171IDBVR
+$ENDCMP
+#
+#End Doc Library

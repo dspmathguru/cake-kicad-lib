@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 750340744
+D Transformer 10A
+F https://www.we-online.com/catalog/datasheet/750340744.pdf
+$ENDCMP
+#
+$CMP 750343547
+D Transformer - primary 240VDC 100-400kHz, secondary 110V, 1A
+F https://www.we-online.com/catalog/datasheet/750343547.pdf
+$ENDCMP
+#
+#End Doc Library
